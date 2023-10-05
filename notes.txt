@@ -1,0 +1,7 @@
+Analyza datasetu,
+co obsahuji, kolik je tam data, jak velkou dobu obsahuji
+Analyza hodnot
+
+Srovnat modely, cim se lisi a vybrat nejlepsi, vybrat jeden a zkoumat vice 
+
+Problem prilis mnoho dat
