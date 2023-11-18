@@ -5,3 +5,16 @@ Analyza hodnot
 Srovnat modely, cim se lisi a vybrat nejlepsi, vybrat jeden a zkoumat vice 
 
 Problem prilis mnoho dat
+
+Popsat data, ucrcit trendy
+
+Introduction
+Motivace, ceho chci dosahnout a cesta k nemu, struktura textu,
+
+Pred kazdou kapitolou Introduction ke kapitole a na konci zaver.
+
+Popsat datasety, strukturu, od kud, z kama, charakteristika.
+
+## Az pro dalsi semestr
+
+Overit metody na jinych datasetech, ktere uz byly analyzovany.
