@@ -1,2 +1,9 @@
 .ipynb_checkpoints/
 *.pkl
+
+bin/
+env/
+include/
+lib/
+share/
+*.cfg
